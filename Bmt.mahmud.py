@@ -389,11 +389,12 @@ def follow(ses,coki):
 
 logo = ("""\033[1;32m
 
- SSSSS   AAA   KK  KK IIIII BBBBBB
-SS       AAAAA  KK KK   III  BB   BB
- SSSSS  AA   AA KKKK    III  BBBBBB  
-     SS AAAAAAA KK KK   III  BB   BB 
- SSSSS  AA   AA KK  KK IIIII BBBBBB  
+ 
+.-.   .-.  .--.  .-. .-..-.   .-..-. .-..----. 
+|  `.'  | / {} \ | {_} ||  `.'  || { } || {}  \
+| |\ /| |/  /\  \| { } || |\ /| || {_} ||     /
+`-' ` `-'`-'  `-'`-' `-'`-' ` `-'`-----'`----' 
+
                         
   \033
 __________________×__×____________________
